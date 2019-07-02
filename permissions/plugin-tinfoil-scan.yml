@@ -4,5 +4,8 @@ github: "jenkinsci/tinfoil-security-plugin"
 paths:
 - "com/tinfoilsecurity/plugins/tinfoil-scan"
 developers:
+- "borski"
 - "bsedat"
 - "shanewilton"
+- "ACBullen"
+- "pludlum"
